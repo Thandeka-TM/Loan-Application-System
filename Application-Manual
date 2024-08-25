@@ -1,0 +1,45 @@
+#Hardy Loans
+
+Hardy Loans is a company which allows its customers to get loans not exceeding R100000. Customers are able to acquire two types of loans through this company: Business loans and Personal loans. 
+
+1.	Menu: 
+
+The menu allows the users to choose which loan type they wish to apply for and provides them with a statement which gives them the details of the loan application. 
+  
+
+2.	Business Loan
+
+The business loan asks the user for their name, surname, the amount which they would like to apply for and the payment term of the loan, and the prime interest rate of the loan they applied for. This means the user chooses how much interest each of their loans will amount to.  
+Utilize enter to move to the next field. 
+ 
+Once all data has been entered the data will be cleared from the display and be stored. 
+
+3.	Personal loans
+
+These loans are set as loans for personal use within the system and as such will set as such. The individual applying for it will be requested to enter their Name, Surname, the loan amount they wish to apply for, the payback period and the interest rate.  
+Once entered the data will be cleared from the console. 
+4.	Select Loan Type:
+
+The loan type isn’t set for whether the loan is for Personal or Business use, it’s for the payback duration which sets how long you have to pay the amount back. 
+Short term: 1 year – 12 months
+Medium term: 3 years – 36 months
+Long term: 5 years – 56 months
+ 
+
+5.	Display
+
+The display option provides the applicant with the ability to see their loan’s details, that of the applicant allowing them to review their choice and option one final time. This data is saved on the system but once you leave the application the data will no longer be accessible. 
+  
+
+6.	Exit
+
+ 
+The exit option allows you to clear than leave the application directly after the completion of the loan application
+
+
+7.	Participants
+
+Hatlane Lowane 
+Njabulo Marrengane 
+Thandeka Mavunda
+Thokozani Mncube
